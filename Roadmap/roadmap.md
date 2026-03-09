@@ -20,7 +20,11 @@
 ---
 
 ## 🎯 FASE 0: Fundamentos y Certificaciones
+
+**Estado:**   Completa
+**Inicio:**   Lunes 5 de enero de 2026
 **Duración:** Semanas 1-4 (Enero)
+
 
 ### Objetivos
 - ✅ Obtener certificado Linux DevOps
@@ -68,6 +72,10 @@
 ---
 
 ## 🏋️ FASE 0.5: Práctica Intensiva
+
+**Estado**⏳ Próxima 
+**Inicio** Lunes 5 de febrero de 2026
+**Duración** 2-3 semanas (flexibles)
 **Duración:** 2-3 semanas (Flexible)
 
 ### Objetivos
